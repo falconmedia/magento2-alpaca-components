@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 - Rating stars
 - Error styles
+- Catalog structure
+
+### Fixed
+- Qty validation error styles
+
+## [0.9.1] - 06.09.2018
+### Changed
+- Yarn lock file
 
 ## [0.9.0] - 05.09.2018
 ### Added
