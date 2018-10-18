@@ -5,11 +5,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-### Added
-- Styles for 2 column layouts
-
 ### Changed
 - Refactor rating & review on product page, a11y
+- Refactor dropdown list and nested list
+
+## [1.0.1] - 18.10.2018
+### Changed
+- Circle CI tests setup
+
+## [1.0.0] - 15.10.2018
+### Added
+- Better docs
+
+## [0.10.2] - 11.10.2018
+### Added
+- Styles for 2 column layouts
 
 ### Removed
 - Useless table element sass extends
