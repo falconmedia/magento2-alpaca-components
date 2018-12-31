@@ -16,5 +16,12 @@ $price__font-weight--old   : $font-weight-normal !default;
                 text-decoration: none;
             }
         }
+        &--between {
+            display: block;
+        }
+    }
+
+    &__text {
+        font-weight: $price__font-weight--old;
     }
 }
