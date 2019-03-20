@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
+- focus state for components
+
+### Changed
+- Dashboard My Orders page - a11y updates
+
+## [1.2.0] - 04.03.2019
+### Added
 - Support for escape key in dropdown script
 - B2B Quickorder view
 - reCAPTCHA styles
@@ -28,6 +35,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - `product-view--bundle` view variant
 - `product-view--grouped` view variant
 - Support for B2B module
+- Grid based on flexboxgrid2
 
 ### Fixed
 - Review alignment
