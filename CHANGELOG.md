@@ -11,7 +11,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 - Dashboard My Orders page - a11y updates
 
-### Fixed
+## Fixed
+- Quantity icons config
 - Catalog grid item styles for images with different sizes
 
 ## [1.2.0] - 04.03.2019
