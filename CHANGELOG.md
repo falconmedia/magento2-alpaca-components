@@ -6,10 +6,22 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
-- focus state for components
+- Missing mega-menu item classes
+
+### Changed
+- Remove lazyload from logo image
+
+### Fixed
+- Lazyload in catalog
+
+## [1.3.0] - 17.04.2019
+### Added
+- Focus state for components
 
 ### Changed
 - Dashboard My Orders page - a11y updates
+- Refactor divider component
+- Update preview grid
 
 ## Fixed
 - Quantity icons config
