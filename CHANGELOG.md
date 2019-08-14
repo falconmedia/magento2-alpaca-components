@@ -7,8 +7,25 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - Focus & Keyboard support for mega-menu
+- Skip nav element
+### Changed
+- Change modal attribute to kebab case and fix modal overflow
+- Switching to Gulp 4
+- Update node modules (autoprefixer@9.6.0, globby@9.2.0, fs-extra@8.0.1, stylelint-config-standard@8.3.0, stylelint@10.1.0)
+- Load dropdown-list globally and change dropdown selector
+
 ### Fixed
 - Rating focus style
+- Hide side-menu content from keyboard navigation
+- Fixed typo for variable in Sass catalog grid
+
+## [1.3.2] - 15.07.2019
+### Fixed
+- CI issues after moval of rsync from docker image
+
+### Changed
+- Frontools removed from dependecies
+- CI Frontools config update
 
 ## [1.3.1] - 30.04.2019
 ### Added
